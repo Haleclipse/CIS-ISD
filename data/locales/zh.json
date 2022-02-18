@@ -4,6 +4,7 @@
     "selectLanguage.Chinese": "中文",
     "selectLanguage.English": "英语",
     "DeviceExit": "退出",
+    "ConfigClientScrewDriver": "配置本机电批",
     "WaitingEWICommand": "等待EWI指令中...",
     "localeControl": "zh_CN",
 
@@ -16,6 +17,7 @@
 
     "leftMenu.ScrewDriverManage": "电批管理",
     "leftMenu.PieceManage": "机型管理",
+    "leftMenu.DataStat": "数据统计",
     "leftMenu.PieceList": "机型列表",
 
     "ScrewDriverTable.addButton": "添加电批",
@@ -131,5 +133,35 @@
     "EditProduct.AddPointDialog.Title": "设置点位信息",
     "EditProduct.AddPointDialog.SelectScrewDriver": "选择电动螺丝刀",
     "EditProduct.AddPointDialog.Delete": "删除",
-    "EditProduct.AddPointDialog.Confirm": "确认"
+    "EditProduct.AddPointDialog.Confirm": "确认",
+
+    "DataStatTable.searchButton": "检索选项",
+    "DataStatTable.Title": "螺丝数据",
+    "DataStatTable.Header.ID": "序号",
+    "DataStatTable.Header.SN": "SN",
+    "DataStatTable.Header.PieceName": "机型名称",
+    "DataStatTable.Header.PointIndex": "点位序号",
+    "DataStatTable.Header.ScrewDriverName": "电批名称",
+    "DataStatTable.Header.Pset": "Pset",
+    "DataStatTable.Header.Torque": "扭矩值",
+    "DataStatTable.Header.Angle": "角度值",
+    "DataStatTable.Header.ScrewStatus": "拧紧状态",
+    "DataStatTable.Header.ScrewTime": "拧紧时间",
+
+    "DataStatTable.Header.ScrewDriverID": "电批ID",
+
+    "DataStat.SearchForm.Title": "检索选项",
+    "DataStat.SearchForm.Description": ">.........",
+    "DataStat.SearchForm.SN": "SN",
+    "DataStat.SearchForm.PieceName": "机型名称",
+    "DataStat.SearchForm.ScrewDriverName": "电批名称",
+    "DataStat.SearchForm.Pset": "Pset",
+    "DataStat.SearchForm.TorqueValid": "扭矩状态",
+    "DataStat.SearchForm.AngleValid": "角度状态",
+    "DataStat.SearchForm.ScrewStatus": "拧紧状态",
+    "DataStat.SearchForm.Option.Valid": "合格",
+    "DataStat.SearchForm.Option.Invalid": "不合格",
+    "DataStat.SearchForm.ScrewTime": "拧紧时间",
+    "DataStat.SearchForm.downloadButton": "下载",
+    "DataStat.SearchForm.filterButton": "搜索"
 }

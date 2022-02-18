@@ -4,6 +4,7 @@
     "selectLanguage.Chinese": "Chinese",
     "selectLanguage.English": "English",
     "DeviceExit": "Change ClientName",
+    "ConfigClientScrewDriver": "Config Client ScrewDriver",
     "WaitingEWICommand": "Waiting EWI Command...",
     "localeControl": "en_US",
 
@@ -16,6 +17,7 @@
 
     "leftMenu.ScrewDriverManage": "ScrewDriver Manage",
     "leftMenu.PieceManage": "Product Manage",
+    "leftMenu.DataStat": "DataStat",
     "leftMenu.PieceList": "WorkBench",
 
     "ScrewDriverTable.addButton": "Add ScrewDriver",
@@ -131,5 +133,35 @@
     "EditProduct.AddPointDialog.Title": "Edit Point Info",
     "EditProduct.AddPointDialog.SelectScrewDriver": "Select ScrewDriver",
     "EditProduct.AddPointDialog.Delete": "Delete",
-    "EditProduct.AddPointDialog.Confirm": "Confirm"
+    "EditProduct.AddPointDialog.Confirm": "Confirm",
+
+    "DataStatTable.searchButton": "Search / Download",
+    "DataStatTable.Title": "Data Statistics",
+    "DataStatTable.Header.ID": "ID",
+    "DataStatTable.Header.SN": "SN",
+    "DataStatTable.Header.PieceName": "PieceName",
+    "DataStatTable.Header.PointIndex": "PointIndex",
+    "DataStatTable.Header.ScrewDriverName": "ScrewDriverName",
+    "DataStatTable.Header.Pset": "Pset",
+    "DataStatTable.Header.Torque": "Torque",
+    "DataStatTable.Header.Angle": "Angle",
+    "DataStatTable.Header.ScrewStatus": "ScrewStatus",
+    "DataStatTable.Header.ScrewTime": "ScrewTime",
+
+    "DataStatTable.Header.ScrewDriverID": "ScrewDriverID",
+
+    "DataStat.SearchForm.Title": "Search Options",
+    "DataStat.SearchForm.Description": ">.........\nPlease filter before downloading",
+    "DataStat.SearchForm.SN": "SN",
+    "DataStat.SearchForm.PieceName": "PieceName",
+    "DataStat.SearchForm.ScrewDriverName": "ScrewDriverName",
+    "DataStat.SearchForm.Pset": "Pset",
+    "DataStat.SearchForm.TorqueValid": "TorqueValid",
+    "DataStat.SearchForm.AngleValid": "AngleValid",
+    "DataStat.SearchForm.ScrewStatus": "ScrewStatus",
+    "DataStat.SearchForm.Option.Valid": "Valid",
+    "DataStat.SearchForm.Option.Invalid": "Invalid",
+    "DataStat.SearchForm.ScrewTime": "ScrewTime",
+    "DataStat.SearchForm.downloadButton": "Download Data",
+    "DataStat.SearchForm.filterButton": "Filter Data"
 }
